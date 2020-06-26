@@ -1,4 +1,4 @@
-# Squid with explicit ssl/tls termination
+# Squid cache proxy in Docker Container
 
 ## What is Squid?
 
@@ -6,18 +6,23 @@
 
 ## Quick Start
 
+
+## Features
+
+**** SSLBump
+
 ## Configuration
 
 # Environment
-CERT_FILE   File name
-CERT_ORG    Organisation
-CERT_FQDN   Fully Qualified Domain Name
-CERT_DAYS   Exiration Days
-CERT_C      Country
+- CERT_FILE   File name
+- CERT_ORG    Organisation
+- CERT_FQDN   Fully Qualified Domain Name
+- CERT_DAYS   Exiration Days
+- CERT_C      Country
 
 # File
-etc/squid.conf
-etc/openssl.cnf
+- etc/squid.conf
+- etc/openssl.cnf
 
 ## Legal Warning
 
