@@ -1,4 +1,4 @@
-# Squid c with explicit ssl/tls termination![Logo](squid_logo.png)[![Build Status](https://travis-ci.com/github/shaun-lloyd/squid-https.svg?branch=master)(https://travis-ci.com/github/shaun-lloyd/squid-https)
+# Squid with explicit ssl/tls termination![Logo](squid_logo.png)[![Build Status](https://travis-ci.com/github/shaun-lloyd/squid-https.svg?branch=master)(https://travis-ci.com/github/shaun-lloyd/squid-https)
 
 ## What is Squid?
 
